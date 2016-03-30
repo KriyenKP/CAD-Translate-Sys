@@ -1,0 +1,5 @@
+c:\users\kriyen\documents\visual studio 2015\Projects\CAD-Translate-Sys\CAD-Translate-Sys\bin\Debug\CAD-Translate-Sys.dll
+c:\users\kriyen\documents\visual studio 2015\Projects\CAD-Translate-Sys\CAD-Translate-Sys\bin\Debug\CAD-Translate-Sys.pdb
+c:\users\kriyen\documents\visual studio 2015\Projects\CAD-Translate-Sys\CAD-Translate-Sys\obj\Debug\CAD-Translate-Sys.csprojResolveAssemblyReference.cache
+c:\users\kriyen\documents\visual studio 2015\Projects\CAD-Translate-Sys\CAD-Translate-Sys\obj\Debug\CAD-Translate-Sys.dll
+c:\users\kriyen\documents\visual studio 2015\Projects\CAD-Translate-Sys\CAD-Translate-Sys\obj\Debug\CAD-Translate-Sys.pdb
