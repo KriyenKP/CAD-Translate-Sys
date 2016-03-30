@@ -22,7 +22,7 @@ namespace CAD_Translate_Sys
                 return strSource.Substring(Start, End - Start);
             }
             else
-            {return "";}
+            {return ""; }
         }
         public static string TranslateText(string input, string languagepair = "en|pt")
         {
