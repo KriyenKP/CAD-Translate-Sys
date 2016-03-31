@@ -1,0 +1,11 @@
+﻿Boolean long_text = false;
+            /*Code for html scraping - original script - kept as backup*/ 
+           /*string text = getBetween(result, "<span id=result_box class=\"short_text\">", "</span>");
+
+            if(text.Length==0)
+            {
+                long_text = true;
+                text = getBetween(result, "<span id=result_box class=\"long_text\">", "</span>");
+            }
+            Console.WriteLine("result - " + result);
+            */ //return text;
